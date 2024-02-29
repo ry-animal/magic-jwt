@@ -2,7 +2,7 @@ repo_name: ry-animal/magic-jwt
 report_id: 52832aedcba5756cb425297b2bf78c1d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:14:59+00:00'
+timestamp: '2024-02-29T18:15:14+00:00'
 requested_by: hcote
 provider: github
 branch: master
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/ry-animal/magic-jwt
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 10.0.5
   open_source: true
